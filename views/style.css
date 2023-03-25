@@ -844,12 +844,14 @@
 .section14 p {
     color: white;
     position: relative;
-    top: -34rem;
-    left: 6rem;
+    top: -8rem;
+    display: inline-block;
+    left: 5rem;
+    background-color: transparent;
+    left: -77rem;
     background-color: transparent;
     font-size: 1.5rem;
 }
-
 .section14 p:hover {
     color: #FFB300;
 }
