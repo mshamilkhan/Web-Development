@@ -3,6 +3,7 @@
     font-family: 'Poppins', sans-serif;
     padding: 0;
     margin: 0;
+    max-height: max-content;
 }
 
 .navbar {
@@ -620,6 +621,14 @@
     background-color: transparent;
 }
 
+.section13 {
+    display: inline-block;
+    z-index: 3;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
 .section13 img {
     position: absolute;
     left: 50rem;
@@ -665,6 +674,11 @@
 
 .section13 p:hover {
     color: #FFB300;
+}
+
+.section14 {
+    margin: 0;
+    padding: 0;
 }
 
 .section14 h1 {
@@ -745,7 +759,7 @@
     left: 65rem;
 }
 
-.footer p {
+.footerss p {
     color: white;
     position: absolute;
     top: 1000rem;
@@ -763,14 +777,15 @@
     border-left: none;
     border-right: none;
 
+
 }
 
-.footer {
+.footerss {
 
     align-items: center;
     text-align: center;
-    border: 1px solid white;
-    background-color: transparent;
+    /* border: 1px solid white; */
+    background-color: red;
     margin-bottom: 2rem;
 }
 
