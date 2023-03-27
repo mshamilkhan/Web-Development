@@ -1,4 +1,4 @@
-@media screen and (max-width: 445px) {
+@media only screen and (max-width: 480px) {
 
     img {
         max-width: 100%;
