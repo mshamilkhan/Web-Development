@@ -87,7 +87,7 @@
     }
 
     .sec2logo {
-        left: 9.3rem rem;
+        left: 9.3rem ;
         top: 0rem;
         width: 18rem;
     }
@@ -133,7 +133,7 @@
         position: relative;
         width: 44rem;
         top: -21rem;
-        background-color: red;
+        background-color: transparent;
     }
 
     .section3 .sec3pic {
