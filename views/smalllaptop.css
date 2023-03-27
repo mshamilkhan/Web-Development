@@ -1,0 +1,427 @@
+@media screen and (max-width: 768px) {
+    .navbar ul {
+        position: relative;
+        text-align: center;
+        justify-content: center;
+        display: inline-block;
+        left: 7rem;
+        top: -3rem;
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 1.5rem;
+    }
+
+    .logo {
+        width: 14rem;
+    }
+
+    .navbar {
+        width: 100rem;
+    }
+
+    .headzoom {
+        font-size: 3rem;
+    }
+
+    .blockchain {
+        top: 71rem;
+    }
+
+
+
+    .section2 {
+        width: 50rem;
+        left: 1rem;
+        top: 12rem;
+    }
+
+    .section1 {
+        margin-left: -25rem;
+        display: inline-block;
+        position: relative;
+        left: 75rem;
+        top: -50rem;
+        background-color: transparent;
+    }
+
+    .section3 {
+        height: 70rem;
+        margin-top: 0rem;
+        position: relative;
+        width: 100rem;
+        top: -80rem;
+        background-color: transparent;
+    }
+
+    .section3 p {
+        width: 40%;
+        top: 18rem;
+        left: 53rem;
+    }
+
+    .section3 h1 {
+        position: absolute;
+        left: 53rem;
+        top: 13rem;
+    }
+
+    .section4 {
+        align-items: center;
+        justify-content: center;
+        display: inline-block;
+        position: relative;
+        margin-left: 8rem;
+        top: -63rem;
+        width: 100rem;
+        background-color: transparent;
+    }
+
+    .section4 p {
+        left: -13rem;
+        top: -9rem;
+    }
+
+
+
+    #forteen {
+        position: relative;
+        top: -21rem;
+        width: 5rem;
+        left: -19rem;
+        background-color: transparent;
+        margin-top: 28rem;
+        animation: 2s ease-in-out 0s infinite normal none running move-up-down;
+    }
+
+    #Acoin {
+        left: -26rem;
+    }
+
+    .blockchain {
+        position: relative;
+        top: 5rem;
+        text-align: center;
+        display: inline-block;
+        width: 100rem;
+        height: 15rem;
+        left: 0rem;
+        z-index: 5;
+        background-color: transparent;
+        margin-left: 0rem;
+    }
+
+    .blockchain p {
+        color: white;
+        position: relative;
+        width: 67rem;
+        left: 15.5rem;
+        top: -6rem;
+        background-color: transparent;
+    }
+
+    .section5 {
+        width: 100rem;
+        height: auto;
+        top: -57rem;
+        position: relative;
+        height: 65rem;
+        margin-left: 0rem;
+        display: inline-block;
+        background-color: transparent;
+    }
+
+    .section5 img {
+        width: 47%;
+        height: auto;
+        position: relative;
+        left: 46rem;
+        top: -8rem;
+        background-color: transparent;
+    }
+
+    .section5 h1 {
+        left: -53rem;
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .section6 {
+        background-color: transparent;
+        background-color: transparent;
+        position: relative;
+        top: -99rem;
+        width: 100rem;
+        height: fit-content;
+    }
+
+    .token {
+        position: relative;
+        left: 77rem;
+        top: 5rem;
+    }
+
+    #tokenpic {
+        position: relative;
+        left: 68rem;
+        top: 24rem;
+    }
+
+    .section7 {
+        background-color: transparent;
+        position: relative;
+        top: -96rem;
+        width: 100rem;
+        height: 75rem;
+    }
+
+    #sec7coin {
+        left: 55rem;
+        top: -45rem rem;
+    }
+
+    .section8 {
+        background-color: transparent;
+        position: relative;
+        top: -106rem;
+        height: 60rem;
+        width: 100rem;
+    }
+
+    .section8 img {
+        top: -2rem;
+        position: relative;
+        background-color: transparent;
+        width: 40%;
+        display: inline-block;
+        left: 56rem;
+    }
+
+    .section8 h1 {
+        position: relative;
+        top: -42rem;
+        left: -35.5rem;
+    }
+
+    .section9 {
+        background-color: transparent;
+        position: relative;
+        top: -119rem;
+        height: auto;
+        width: 100rem;
+        height: 60rem;
+    }
+
+    .section9 h3 {
+        color: white;
+        width: 25%;
+        position: relative;
+        left: 71rem;
+        top: -35rem;
+        background-color: transparent;
+        font-size: 2rem;
+    }
+
+    .section10 {
+        background-color: transparent;
+        position: relative;
+        top: -122rem;
+        width: 100rem;
+    }
+
+    .sec10pic {
+        position: relative;
+        top: 0rem;
+        width: 100rem;
+    }
+
+    .section11 {
+        background-color: transparent;
+        position: relative;
+        top: -83rem;
+        width: 101rem;
+        /* height: 166rem; */
+    }
+
+    #eleven {
+        position: relative;
+        left: 63rem;
+        top: -102rem;
+        background-color: transparent;
+        animation: eleven 12s ease-in-out infinite;
+    }
+
+    .sec11h1 {
+        position: relative;
+        left: 8rem;
+        top: -159rem;
+    }
+
+    .section11 h4 {
+        left: -16rem;
+    }
+
+    .sec11pic {
+        left: 30rem;
+    }
+
+    .phone {
+        display: inline-block;
+        position: relative;
+        top: -99rem;
+        left: 27rem;
+        background-color: transparent;
+    }
+
+    .esport {
+        top: 36rem;
+    }
+
+    .section13 {
+        background-color: transparent;
+        position: relative;
+        top: -109rem;
+        height: 70rem;
+        width: 100rem;
+        z-index: 6;
+    }
+
+    .section13 img {
+        position: relative;
+        left: 38rem;
+        display: inline-block;
+        top: 0rem;
+        background-color: transparent;
+        width: 65rem;
+    }
+
+    .section14 {
+        background-color: transparent;
+        z-index: 7;
+        position: relative;
+        left: 0rem;
+        top: -103rem;
+        width: 100rem;
+        height: 50rem;
+    }
+
+    .section14 p {
+        color: white;
+        position: relative;
+        top: -10rem;
+        display: inline-block;
+        left: 6.5rem;
+        background-color: transparent;
+        left: -57.5rem;
+        background-color: transparent;
+        font-size: 1.5rem;
+    }
+
+    .section15 {
+        background-color: transparent;
+        position: relative;
+        width: 100rem;
+        height: 90rem;
+        top: -111rem;
+    }
+
+    .section15 h1 {
+        display: inline-block;
+        top: -71rem;
+        width: 20rem;
+        position: relative;
+        left: 58rem;
+    }
+
+    .section15 p {
+        position: relative;
+        top: -69rem;
+        font-size: 1.5rem;
+        background-color: transparent;
+        width: 30%;
+        color: white;
+        left: 60.5rem;
+    }
+
+    .section16 {
+        background-color: transparent;
+        width: 100rem;
+        height: 50rem;
+        position: relative;
+        top: -125rem;
+    }
+
+    .section16 img {
+        position: relative;
+        top: 0rem;
+        background-color: transparent;
+        width: 57rem;
+    }
+
+    .scrollbox {
+        position: relative;
+        top: -37rem;
+        width: 37%;
+        left: 58rem;
+    }
+
+    .last {
+        text-align: center;
+        background-color: #171329;
+        margin-bottom: 2rem;
+        align-items: center;
+        height: 30rem;
+        top: -122rem;
+        display: flex;
+        width: 100rem;
+        position: relative;
+        left: 0rem;
+    }
+
+    .lastpic {
+        background-color: transparent;
+        align-items: center;
+        display: flex;
+        position: relative;
+        top: -1rem;
+        left: 36rem;
+    }
+
+    .lastfoo {
+        background-color: #070618;
+        position: relative;
+        top: -124rem;
+        color: white;
+        align-items: center;
+        text-align: center;
+        height: 2rem;
+        display: flex;
+        width: 100rem;
+        justify-content: center;
+    }
+
+    .lastfoo p {
+        background-color: transparent;
+        position: relative;
+        left: 0rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
