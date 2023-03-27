@@ -1,0 +1,824 @@
+@media screen and (max-width: 768px) {
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    p {
+        font-size: 0.65rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .fles {
+        display: flex;
+        flex-direction: column;
+        top: 44rem;
+        position: relative;
+    }
+
+    .fles2 {
+        display: flex;
+        top: 19rem;
+        position: relative;
+        flex-direction: column;
+    }
+
+    .fles3 {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        top: -37rem;
+    }
+
+    .navbar {
+        width: 44.5rem;
+        background-color: transparent;
+        height: 3rem;
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 0.7rem;
+    }
+
+    .navmenu a {
+        text-decoration: none;
+        padding: 1rem 2rem 1rem 2rem;
+        display: inline-block;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        position: relative;
+        top: -0.3rem;
+        left: -7rem;
+        right: 1rem;
+    }
+
+    .navbar ul {
+        position: relative;
+        text-align: center;
+        justify-content: center;
+        display: inline-block;
+        left: 9.75rem;
+        top: 0.23rem;
+    }
+
+    .navbar img {
+        background-color: transparent;
+        width: 0rem;
+        padding: 0.5rem;
+    }
+
+    .section2 {
+        width: 30rem;
+        left: -7rem;
+        height: 17rem;
+        background-color: transparent;
+        top: 3rem;
+    }
+
+    .sec2para {
+        width: 20rem;
+        top: 1rem;
+        left: 8rem;
+    }
+
+    .sec2logo {
+        left: 9.3rem rem;
+        top: 0rem;
+        width: 18rem;
+    }
+
+    .btn {
+        width: 1rem;
+        padding: 0.5rem;
+        width: 10rem;
+        top: -1rem;
+        left: -1.5rem;
+        position: relative;
+    }
+
+    .arrow {
+        width: 2.45rem;
+        height: auto;
+        position: absolute;
+        margin-top: 1rem;
+        margin-left: -4.5rem;
+        display: inline-block;
+        background-color: transparent;
+    }
+
+    .section1 {
+        width: 17rem;
+        margin-left: 0rem;
+        display: inline-block;
+        position: relative;
+        left: 24rem;
+        top: 0rem;
+        top: -15rem;
+        background-color: transparent;
+    }
+
+    .sec1pic {
+        width: 15rem;
+    }
+
+    .section3 {
+        height: 28rem;
+        margin-top: 0rem;
+        /* align-items: center; */
+        position: relative;
+        width: 44rem;
+        top: -21rem;
+        background-color: red;
+    }
+
+    .section3 .sec3pic {
+        position: relative;
+        top: -39rem;
+        /* z-index: 4; */
+        /* margin-top: 16rem; */
+        left: 14rem;
+        background-color: transparent;
+        width: 16rem;
+        animation: move-up-down 2s ease-in-out infinite;
+    }
+
+    .section3 h1 {
+        position: relative;
+        left: 0rem;
+        top: -58rem;
+        font-size: 1.5rem;
+    }
+
+    .section3 p {
+        text-align: center;
+        align-items: center;
+        width: 41rem;
+        top: 22rem;
+        left: 1rem;
+        font-size: 0.65rem;
+    }
+
+    .section4 {
+        align-items: center;
+        justify-content: center;
+        margin-left: 7rem;
+        height: 40rem;
+        top: -55rem;
+        width: 32rem;
+        background-color: transparent;
+    }
+
+    .section4 img {
+        width: 21.5rem;
+        height: auto;
+        background-color: transparent;
+        position: relative;
+        margin-left: 3.5rem;
+        top: 5rem;
+    }
+
+    #forteen {
+        position: relative;
+        top: -37rem;
+        width: 3.3rem;
+        left: 9.5rem;
+        background-color: transparent;
+        margin-top: 28rem;
+        animation: 2s ease-in-out 0s infinite normal none running move-up-down;
+    }
+
+    #Acoin {
+        left: -4rem;
+        width: 16rem;
+        top: -44rem;
+        position: relative;
+    }
+
+    .section4 p {
+        left: -1.5rem;
+        position: relative;
+        top: -29rem;
+        width: 33rem;
+        text-align: center;
+        font-size: 0.65rem;
+    }
+
+    .blockchain {
+        position: relative;
+        top: 16rem;
+        text-align: center;
+        /* display: flex; */
+        width: 30rem;
+        height: auto;
+        left: 7rem;
+        /* z-index: 5; */
+        background-color: transparent;
+        margin-left: 0rem;
+    }
+
+    .blockchain img {
+        width: 7rem;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        top: 0rem;
+        position: relative;
+        background-color: transparent;
+    }
+
+    .blockchain p {
+        color: white;
+        position: relative;
+        width: 25rem;
+        left: 2.5rem;
+        top: -1rem;
+        background-color: transparent;
+    }
+
+    .section5 {
+        width: 32rem;
+        height: auto;
+        top: -75rem;
+        position: relative;
+        height: 65rem;
+        margin-left: 7rem;
+        display: inline-block;
+        background-color: transparent;
+    }
+
+    .section5 img {
+        width: 21rem;
+        height: auto;
+        position: relative;
+        left: 5rem;
+        top: 8rem;
+        background-color: transparent;
+    }
+
+    .section5 h1 {
+        left: 6rem;
+        top: -23rem;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .section5 p {
+        top: 7rem;
+        left: -3rem;
+        right: 0rem;
+        width: 40%;
+        width: 36rem;
+        font-size: 0.65rem;
+        color: white;
+        text-align: center;
+        display: inline-block;
+        position: relative;
+        background-color: transparent;
+    }
+
+    .section6 {
+        top: -99rem;
+        width: 34rem;
+        left: 7rem;
+        height: 25rem;
+    }
+
+    .rectangle {
+        display: none;
+    }
+
+    .scrolltoken {
+        background-color: #110e20;
+        width: 37rem;
+        height: 17rem;
+        position: relative;
+        left: -3.25rem;
+        overflow: hidden;
+        top: 3rem;
+        position: relative;
+        overflow: auto;
+        border-radius: 20px;
+        z-index: 0;
+    }
+
+    #tokenpic {
+        width: 3rem;
+        left: 13rem;
+        elative: ;
+        top: 29rem;
+        top: 3rem;
+    }
+
+    .token {
+        position: relative;
+        left: 11rem;
+        font-size: 1.5rem;
+        top: 0rem;
+    }
+
+    .section7 {
+        background-color: transparent;
+        position: relative;
+        top: -96rem;
+        width: 32rem;
+        left: 6rem;
+        height: 28rem;
+    }
+
+    #five {
+        position: relative;
+        top: -15rem;
+        left: 2rem;
+        background-color: transparent;
+        width: 15rem;
+    }
+
+    #sec7coin {
+        left: 16rem;
+        top: -31rem;
+        top: -45rem rem;
+        width: 17rem;
+        background-color: transparent;
+    }
+
+    .section7 {
+        background-color: transparent;
+        position: relative;
+        top: -96rem;
+        width: 32rem;
+        height: 28rem;
+    }
+
+    #twenty {
+        width: 30rem;
+        position: relative;
+        left: 2rem;
+        top: -14rem;
+        opacity: 0.4;
+        background-color: transparent;
+        z-index: -1;
+        animation: diagonal 2s ease-in-out infinite;
+    }
+
+    .section8 {
+        background-color: transparent;
+        position: relative;
+        top: -101rem;
+        left: 6rem;
+        height: 60rem;
+        width: 34rem;
+    }
+
+    .section8 h1 {
+        position: relative;
+        top: -11rem;
+        display: inline-block;
+        width: 25rem;
+        left: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+    .section8 p {
+        color: white;
+        width: 35rem;
+        text-align: center;
+        left: -1rem;
+        display: inline-block;
+        position: relative;
+        top: 6rem;
+        font-size: 0.65rem;
+        background-color: transparent;
+    }
+
+    .section8 img {
+        top: 8rem;
+        position: relative;
+        background-color: transparent;
+        width: 40%;
+        display: inline-block;
+        left: 10rem;
+    }
+
+    .section9 {
+        background-color: transparent;
+        position: relative;
+        top: -127rem;
+        height: auto;
+        left: 6rem;
+        width: 33rem;
+        height: 30rem;
+    }
+
+    #sec9pic {
+        width: 25rem;
+        background-color: transparent;
+        position: relative;
+        top: 2rem;
+        left: 4rem;
+    }
+
+    .section9 h3 {
+        color: white;
+        width: 25rem;
+        position: relative;
+        left: 4rem;
+        text-align: center;
+        top: 4rem;
+        background-color: transparent;
+        font-size: 1rem;
+    }
+
+    .section10 {
+        background-color: transparent;
+        position: relative;
+        top: -126em;
+        width: 44rem;
+    }
+
+    .section10 h1 {
+        font-size: 1.5rem;
+    }
+
+    .section11 {
+        background-color: transparent;
+        position: relative;
+        top: -122rem;
+        width: 44.25rem;
+        height: auto;
+    }
+
+    #joystick {
+        width: 4rem;
+        position: relative;
+        top: -10rem;
+        top: -48rem;
+        background-color: transparent;
+        animation: move-up-downss 12s ease-in-out infinite;
+    }
+
+    #eleven {
+        position: relative;
+        left: 34rem;
+        top: -121rem;
+        width: 6rem;
+        top: -5rem;
+        background-color: transparent;
+        animation: eleven 12s ease-in-out infinite;
+    }
+
+    .esportpara {
+        width: 15rem;
+        color: white;
+        position: relative;
+        left: 2rem;
+        font-size: 0.65rem;
+        top: -96rem;
+        background-color: transparent;
+    }
+
+    .phone {
+        display: inline-block;
+        position: relative;
+        top: -29rem;
+        width: 8rem;
+        left: 32rem;
+        background-color: transparent;
+    }
+
+    .esportpara {
+        width: 21rem;
+        color: white;
+        position: relative;
+        left: 2rem;
+        font-size: 0.55rem;
+        top: -42rem;
+        background-color: transparent;
+    }
+
+    .esport {
+        top: 28rem;
+        font-size: 1.2rem;
+        left: 2rem;
+        width: 29rem;
+    }
+
+    .sec11pic {
+        left: -14.5rem;
+        top: -37rem;
+        width: 13rem;
+    }
+
+    #joystick {
+        width: 4rem;
+        position: relative;
+        top: -10rem;
+        top: -42rem;
+        background-color: transparent;
+        animation: move-up-downss 12s ease-in-out infinite;
+    }
+
+    .sec11h1 {
+        position: relative;
+        left: 8.9rem;
+        font-size: 1.5rem;
+        top: -51rem;
+    }
+
+    .section11 h4 {
+        opacity: 0;
+    }
+
+    .section13 {
+        background-color: transparent;
+        position: relative;
+        left: 6rem;
+        top: -121rem;
+        height: 41rem;
+        display: inline-block;
+        width: 34rem;
+        z-index: 6;
+    }
+
+    .section13 img {
+        position: relative;
+        left: 4rem;
+        display: inline-block;
+        top: 5rem;
+        background-color: transparent;
+        width: 24rem;
+    }
+
+    .section13 h1 {
+        position: relative;
+        top: -20rem;
+        font-size: 1.5rem;
+        left: -12rem;
+    }
+
+    .sec13para {
+        width: 25rem;
+        color: white;
+        font-size: 0.65rem;
+        position: relative;
+        left: 5rem;
+        background-color: transparent;
+        top: 7rem;
+    }
+
+    .section13 h3 {
+        color: #FFB300;
+        font-size: 1rem;
+        background-color: transparent;
+        position: relative;
+        left: 10rem;
+        top: 6rem;
+    }
+
+    .sec13para2 {
+        width: 25rem;
+        color: white;
+        font-size: 0.65rem;
+        position: relative;
+        left: 5rem;
+        background-color: transparent;
+        top: 6rem;
+    }
+
+    .section14 {
+        background-color: transparent;
+        z-index: 7;
+        position: relative;
+        left: 8rem;
+        top: -120rem;
+        width: 39rem;
+        height: 18rem;
+    }
+
+    .section14 img {
+        position: relative;
+        left: 5rem;
+        background-color: transparent;
+        width: 45%;
+        top: 4rem;
+        animation: radial-out 1s ease-in-out forwards;
+    }
+
+    .section14 h1 {
+        position: relative;
+        top: -8rem;
+        left: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .section14 h1 {
+        position: relative;
+        top: -8rem;
+        left: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .section14 p {
+        color: white;
+        position: relative;
+        top: 3rem;
+        display: inline-block;
+        left: 6.5rem;
+        background-color: transparent;
+        left: -25.5rem;
+        background-color: transparent;
+        font-size: 0.65rem;
+    }
+
+    .section15 {
+        background-color: transparent;
+        position: relative;
+        width: 25rem;
+        height: 90rem;
+        left: 3rem;
+        top: -116rem;
+    }
+
+    .section15 h1 {
+        display: inline-block;
+        top: -18rem;
+        width: 20rem;
+        position: relative;
+        font-size: 1.5rem;
+        left: 17rem;
+    }
+
+    .section15 p {
+        position: relative;
+        top: -17rem;
+        font-size: 0.65rem;
+        background-color: transparent;
+        width: 11rem;
+        color: white;
+        left: 23rem;
+    }
+
+    .section16 {
+        background-color: transparent;
+        width: 27rem;
+        height: 50rem;
+        position: relative;
+        left: 7rem;
+        top: -183rem;
+    }
+
+    .section16 {
+        background-color: transparent;
+        width: 27rem;
+        height: 50rem;
+        position: relative;
+        top: -183rem;
+    }
+
+    .section16 img {
+        left: 1rem;
+    }
+
+    /* .scrolltoken {
+        background-color: #110e20;
+        width: 26rem;
+        height: 17rem;
+        position: relative;
+        left: 1.75rem;
+        overflow: hidden;
+        top: 3rem;
+        position: relative;
+        overflow: auto;
+        border-radius: 20px;
+        z-index: 0;
+    } */
+
+    .last {
+        text-align: center;
+        background-color: #171329;
+        margin-bottom: 2rem;
+        align-items: center;
+        height: 17rem;
+        top: -188rem;
+        display: flex;
+        width: 44rem;
+        position: relative;
+        left: 0rem;
+    }
+
+    .lastpic {
+        background-color: transparent;
+        align-items: center;
+        display: flex;
+        width: 10rem;
+        position: relative;
+        top: -3rem;
+        left: 16rem;
+    }
+
+    .last p {
+        position: relative;
+        top: 1rem;
+        left: -5rem;
+        align-items: center;
+        display: inline;
+        text-align: center;
+        background-color: transparent;
+        width: 34rem;
+        color: white;
+    }
+
+    .lastfoo {
+        background-color: #070618;
+        position: relative;
+        top: -192rem;
+        color: white;
+        align-items: center;
+        text-align: center;
+        height: 2rem;
+        display: flex;
+        width: 44rem;
+        justify-content: center;
+    }
+
+    .lastfoo p {
+        background-color: transparent;
+        position: relative;
+        left: 0rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    p {
+        font-size: 0.65rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
